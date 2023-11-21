@@ -1,0 +1,3 @@
+Le programme  java va demander d'introduire des données pour chacun des étudiants d'une classe. 
+Pour chaque étudiant on demandera : Son numéro de matricule (en er > 0) Ses résultats dans 2 ma ères (2 cote /20 en format double) Le programme s'arrêtera lorsqu'on entre un matricule égal à 0.
+ Pour chaque étudiant, le programme affichera : Sa moyenne Son nombre d’échecs A la fin de la classe (pour l'ensemble des étudiants), le programme affichera : La moyenne de la classe dans chacune des 2 ma ères Le nombre d’échecs dans chaque ma ère Le nombre d’étudiants n’ayant aucun échec
